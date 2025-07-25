@@ -28,7 +28,7 @@ In Isaac Sim, we perform the corresponding configuration of actuators and sensor
 - Add the ROS 2 camera helper
 - Add the ROS 2 RTX Lidar helper
 - Add ROS 2 odometry and TF tree
-- Add a suitable map and use Tools > Robotics > Occupancy Map to perform mapping and save the result.
+- Add a suitable map and use **Tools > Robotics > Occupancy Map** to perform mapping and save the result.
 
 **Note**: Please move the camera and lidar to their corresponding links, in this project: `camera_optical_link` and `laser_link`. This is not a straightforward process, and the specific steps require referring to the official Isaac Sim documentation.
 
