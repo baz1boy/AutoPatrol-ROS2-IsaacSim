@@ -2,7 +2,7 @@
 
 This is an autonomous patrol robot project based on ROS 2 Humble and Navigation 2, it runs in the simulation environment of **Isaac Sim 4.5**. 
 
-If you want to view a different version for **Gazebo**, please go to: (https://github.com/baz1boy/AutoPatrol-Robot-ROS2)
+If you want to view a different version for **Gazebo**, please go to: (https://github.com/baz1boy/AutoPatrol-ROS2-Gazebo)
 
 First, open the Isaac Sim GUI and click Play, then use the one-click option to load the Navigation System and Application. The robot can then autonomously patrol between predefined waypoints in a mapped environment.
 
