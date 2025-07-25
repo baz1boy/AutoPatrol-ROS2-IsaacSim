@@ -1,4 +1,4 @@
-# Pabot - An autonomous patrol robot based on ROS 2 and Navigation 2 (Isaac Sim Simulation)
+# Pabot - An autonomous patrol robot based on ROS 2 and Navigation 2 (Isaac Sim 4.5)
 
 This is an autonomous patrol robot project based on ROS 2 Humble and Navigation 2, it runs in the simulation environment of **Isaac Sim 4.5**. 
 
@@ -10,7 +10,7 @@ First, open the Isaac Sim GUI and click Play, then use the one-click option to l
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=nPYWb86pzSc&list=PLG0yEiqorTkghIX3G7IwC2tOvI9JmIdd0&index=2">
-    <img src="https://img.youtube.com/vi/tghYcGstC8o/0.jpg" width="480">
+    <img src="https://img.youtube.com/vi/nPYWb86pzSc/0.jpg" width="480">
     <br>
     🎥 Click to watch the demo video
   </a>
