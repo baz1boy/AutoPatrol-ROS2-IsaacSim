@@ -6,7 +6,15 @@ If you want to view a different version for **Gazebo**, please go to: (https://g
 
 First, open the Isaac Sim GUI and click Play, then use the one-click option to load the Navigation System and Application. The robot can then autonomously patrol between predefined waypoints in a mapped environment.
 
-**Demo Video**:  [![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nPYWb86pzSc&list=PLG0yEiqorTkghIX3G7IwC2tOvI9JmIdd0&index=2)
+### **Demo Video**:[![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nPYWb86pzSc&list=PLG0yEiqorTkghIX3G7IwC2tOvI9JmIdd0&index=2)
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=nPYWb86pzSc&list=PLG0yEiqorTkghIX3G7IwC2tOvI9JmIdd0&index=2">
+    <img src="https://img.youtube.com/vi/tghYcGstC8o/0.jpg" width="480">
+    <br>
+    🎥 Click to watch the demo video
+  </a>
+</div>
 
 ## 1. Project Introduction
 
